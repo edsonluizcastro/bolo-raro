@@ -2,11 +2,11 @@ const actionCta = document.getElementById('cta');
 const actionCta2 = document.getElementById('cta2');
 
 actionCta.addEventListener('click', () => {
-  window.location.href = ""
+  window.location.href = "https://pay.kiwify.com.br/raOjKFc"
 });
 
 actionCta2.addEventListener('click', () => {
-  window.location.href = ""
+  window.location.href = "https://pay.kiwify.com.br/raOjKFc"
 });
 
 async function displayButton(){
