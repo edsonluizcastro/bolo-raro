@@ -21,9 +21,9 @@ async function displayButton(){
 }
 
 // async function convertMinutesToMiliseconds(minutes){
-//   const seconds = minutes * 60;
+//   const seconds = minutes * 00;
 
-//   const miliseconds = seconds * 1000;
+//   const miliseconds = seconds * 140;
 
 //   return miliseconds;
 // }
