@@ -17,7 +17,7 @@ async function displayButton(){
   setTimeout(() => {
     actionCta.style.display = "flex";
     actionCta2.style.display = "flex";
-  }, 640000);
+  }, 205000);
 }
 
 // async function convertMinutesToMiliseconds(minutes){
