@@ -2,11 +2,11 @@ const actionCta = document.getElementById('cta');
 const actionCta2 = document.getElementById('cta2');
 
 actionCta.addEventListener('click', () => {
-  window.location.href = "https://pay.kiwify.com.br/raOjKFc"
+  window.location.href = "https://api.whatsapp.com/send?phone=46695078"
 });
 
 actionCta2.addEventListener('click', () => {
-  window.location.href = "https://pay.kiwify.com.br/raOjKFc"
+  window.location.href = "https://api.whatsapp.com/send?phone=46695078"
 });
 
 async function displayButton(){
